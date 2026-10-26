@@ -1,0 +1,1 @@
+{ "name": "usage-panel", "version": "0.1.0", "description": "Battery-style usage bars above the prompt: context, rate limits, cost", "types": "./types/index.d.ts" }

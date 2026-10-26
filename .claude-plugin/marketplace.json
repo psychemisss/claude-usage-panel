@@ -1,0 +1,5 @@
+{
+  "name": "claude-usage-panel",
+  "owner": { "name": "psychemisss" },
+  "plugins": [{ "name": "usage-panel", "source": "./" }]
+}
